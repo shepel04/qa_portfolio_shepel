@@ -47,8 +47,4 @@ so 16 is the minimum. Game mode and Playlist are placed into these 16 runs so th
 
 `~` - any value: all pairs for this cell are already covered by other rows.
 
-> [!NOTE]
-> Coverage was verified: every pair of values from any two parameters appears in at least one row.
-> No constraints in this example - any car can play on any arena in any mode.
-
 📄 [pairwise.xlsx](pairwise.xlsx) · [Google Sheets](https://docs.google.com/spreadsheets/d/1YwYVJbzzYSanFifmXo1UiStdeNZvo067SmT_NqpbhKs/edit)

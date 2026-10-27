@@ -120,9 +120,6 @@ bug reporting · performance testing · interruption testing · requirements ana
 - All combinations: 3 × 4 × 4 × 2 = **96**
 - Pairwise: 4 × 4 = **16** (two largest groups) - every pair of values appears at least once
 
-> [!TIP]
-> Most defects come from a single parameter or an interaction of two. Pairwise covers all of them with 6× fewer test runs.
-
 📄 [Pairwise table (Google Sheets)](https://docs.google.com/spreadsheets/d/1YwYVJbzzYSanFifmXo1UiStdeNZvo067SmT_NqpbhKs/edit)
 
 ---
