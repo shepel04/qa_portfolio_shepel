@@ -10,6 +10,7 @@ Real bugs found in live games. Each report follows the same template and has a v
 | BUG-002 | Game freezes when the player gets out of an overturned car | CindyCar.Drive | Android | Major | High | [open](BUG-002.md) |
 | BUG-003 | New car spawns inside the previous one and the game freezes | CindyCar.Drive | Android | Critical | Urgent | [open](BUG-003.md) |
 | BUG-004 | Game does not pause when an alarm/timer goes off during a battle | Tank Busters | Android | Moderate | Medium | [open](BUG-004.md) |
+| BUG-005 | Hidden bridge collision blocks all damage after the enemy falls under the bridge - level soft-lock | Tank Busters | Android | Critical | Urgent | [open](BUG-005.md) |
 
 ## Severity and priority
 

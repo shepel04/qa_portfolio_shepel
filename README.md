@@ -34,7 +34,7 @@ bug reporting · performance testing · interruption testing · requirements ana
 
 | # | Section | Game / Platform | Highlights |
 |---|---|---|---|
-| 01 | [Bug reports](01-bug-reports/) | CindyCar.Drive, Tank Busters · Android | 4 bugs, 1 critical |
+| 01 | [Bug reports](01-bug-reports/) | CindyCar.Drive, Tank Busters · Android | 5 bugs, 2 critical |
 | 02 | [Interruption checklist](02-checklists/interruptions-tank-busters/) | Tank Busters · Android | 16 checks, 13 automated via adb · 15 Passed, 1 Failed |
 | 03 | [Non-functional checklist](02-checklists/non-functional-rocket-league/) | Rocket League · PC | 25 checks, 10 test types, all Passed |
 | 04 | [Pairwise testing](03-test-design/pairwise-rocket-league/) | Rocket League · PC | 16 cases instead of 96 |
@@ -52,6 +52,7 @@ bug reporting · performance testing · interruption testing · requirements ana
 | [BUG-002](01-bug-reports/BUG-002.md) | Game freezes when the player gets out of an overturned car | CindyCar.Drive | Major | High | [video](assets/bug-002.mp4) |
 | [BUG-003](01-bug-reports/BUG-003.md) | New car spawns inside the previous one and the game freezes | CindyCar.Drive | Critical | Urgent | [video](assets/bug-003.mp4) |
 | [BUG-004](01-bug-reports/BUG-004.md) | Game does not pause when an alarm/timer goes off during a battle | Tank Busters | Moderate | Medium | [screenshots](01-bug-reports/BUG-004.md#attachments) |
+| [BUG-005](01-bug-reports/BUG-005.md) | Hidden bridge collision blocks all damage after the enemy falls under the bridge - level soft-lock | Tank Busters | Critical | Urgent | [video](assets/bug-005.mp4) |
 
 <details>
 <summary><b>BUG-003 · Example of a full report</b></summary>
